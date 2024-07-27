@@ -1,4 +1,9 @@
-## Hi there 👋 I'm Akriti Rai
+<h1 align="center">Hi 👋, I'm Akriti Rai</h1>
+<h3 align="center"> Frontend wizard 🧙‍♂️ | Bachelors in CSE, final-year sorcerer 🔮 | MERN stack maestro in the making 🛠️ |Let's turn caffeine into code! ☕✨</h3>
+
+<img align = "right" alt = "coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehadeshmukh28&label=Profile%20views&color=0e75b6&style=flat" alt="snehadeshmukh28" /> </p>
 
 # 💫 About Me:
 🌱 I’m currently learning Data Structure and Algorithms<br>👯 I’m looking to collaborate on any interesting coding projects or open-source contributions.<br>🤔 I’m looking for help with understanding advanced algorithm concepts and their applications.<br>💬 Ask me about my favorite programming languages and projects I've worked on.<br>📫 How to reach me: raiakriti81@gmail.com<br>😄 Pronouns: She/her<br>📄 Know about my experiences: https://www.linkedin.com/in/akriti-rai-51746722b/<br>⚡ Fun fact: My code runs perfectly... only when no one is watching!
