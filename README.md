@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=iakriti.visitor-badge)]
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakriti&layout=donut)](https://github.com/iakriti/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iakriti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
